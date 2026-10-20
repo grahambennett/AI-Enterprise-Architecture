@@ -21,3 +21,4 @@ The terms of reference provides clarity and learning material for the acronyms t
 | Data sources | D |
 | LLM Ops Pipeline | D |
 | Policy as code | D |
+| Mental Model | D |
