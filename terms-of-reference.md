@@ -1,9 +1,9 @@
 Terms of reference
 The terms of reference provides clarity and learning material for the acronyms that are used across AI and the Enterprise.
 
-| Term | Meaning |
-| --- | --- |
-|Gen AI| DN|
+| Term | Meaning | **Useful links**
+| --- | --- | --- |
+|Gen AI| DN| https://learn.microsoft.com/en-us/training/modules/rag-fundamentals/ |
 |RAG | D1 |
 |Agents| D2 |
 |Fine Tuning|D3|
