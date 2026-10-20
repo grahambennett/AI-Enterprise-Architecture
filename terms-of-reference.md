@@ -3,8 +3,8 @@ The terms of reference provides clarity and learning material for the acronyms t
 
 | Term | Meaning | **Useful links**
 | --- | --- | --- |
-|Gen AI| DN| https://learn.microsoft.com/en-us/training/modules/rag-fundamentals/ |
-|RAG | D1 |
+|Gen AI| DN |
+|RAG | D1 | https://learn.microsoft.com/en-us/training/modules/rag-fundamentals/ |
 |Agents| D2 |
 |Fine Tuning|D3|
 |API Gateway| D|
