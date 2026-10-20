@@ -22,3 +22,5 @@ The terms of reference provides clarity and learning material for the acronyms t
 | LLM Ops Pipeline | D |
 | Policy as code | D |
 | Mental Model | D |
+| MOE | D |
+|MCP | D |
