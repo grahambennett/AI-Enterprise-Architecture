@@ -1,7 +1,7 @@
 Terms of reference
 The terms of reference provides clarity and learning material for the acronyms that are used across AI and the Enterprise.
 
-| Command | Description |
+| Term | Meaning |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| c1 | D1 |
+| c2| D2 |
